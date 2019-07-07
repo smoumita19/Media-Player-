@@ -12,7 +12,7 @@ Adobe XD
 ![Artistpage](https://user-images.githubusercontent.com/52632685/60771781-31dfb480-a10a-11e9-98a0-3b29e9d7cd91.png)
 
 
-![Playpage](https://user-images.githubusercontent.com/52632685/60771780-31dfb480-a10a-11e9-961b-5cb66abd64bc.png)
-
-
 ![Albumpage](https://user-images.githubusercontent.com/52632685/60771779-31dfb480-a10a-11e9-9646-df6e0246addc.png)
+
+
+![Playpage](https://user-images.githubusercontent.com/52632685/60771780-31dfb480-a10a-11e9-961b-5cb66abd64bc.png)
